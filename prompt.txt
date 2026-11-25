@@ -1,0 +1,1 @@
+Build entri Roast Your Own Agent (u-febri-yudila): satu baris roast agent sendiri, 115 karakter, program main.ts menulisnya ke /output/entry.txt. Repo roast-own-agent-febri, wallet 3vRuUVH2YktErxXi3i6eAGc44kqH6wDNkM5miNjexfgE. Tulis semua file dari nol via write/edit, verifikasi lokal, jangan buat repo, jangan submit.
